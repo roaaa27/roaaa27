@@ -1,6 +1,6 @@
 # Hey there 👋 I'm Roa'a AlMomani (رؤى المومني)
 
-🎓 DS & AI Student | 💡 Future Business Innovator | 🌍 IEEE Ambassador & Media Leader for IEEE ZU Branch 
+🎓 DS & AI Student | 💡 Future Business Innovator | 🌍 Media Leader for IEEE ZU Branch 
 
 I'm passionate about combining **Data Science** and **Artificial Intelligence** to build smart solutions that make an impact.  
 Currently learning **Power BI, DAX, and Machine Learning**, and exploring how data can drive business decisions.  
